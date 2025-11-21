@@ -30,8 +30,8 @@ Constraints:
 ```
 /*
 Program to implement Reverse a String
-Developed by: Nikshitha G
-Register Number: 21222311031 
+Developed by: Naveen Kumar M
+Register Number: 212222110028
 */
 
 import java.util.*;
