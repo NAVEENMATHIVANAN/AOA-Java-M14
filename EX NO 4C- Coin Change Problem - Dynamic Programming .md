@@ -20,8 +20,8 @@ You may assume that you have an infinite number of each kind of coin.
 ```
 /*
 Program to implement Reverse a String
-Developed by: NIKSHITHA G 
-Register Number: 212223110031 
+Developed by: Naveen Kumar M
+Register Number: 212222110028
 */
 
 import java.util.*;
