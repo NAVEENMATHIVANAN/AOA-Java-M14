@@ -41,8 +41,8 @@ The value dp[m][n] gives the length of the longest common subsequence.
 ```
 /*
 Program to implement Reverse a String
-Developed by: NIKSHITHA G
-Register Number: 212223110031 
+Developed by: Naveen Kumar M
+Register Number: 212222110028 
 */
 import java.util.Scanner;
 
